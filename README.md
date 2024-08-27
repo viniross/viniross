@@ -1,9 +1,9 @@
 ## Hi there 👋
-## Sou o Vinícius, um aspirante e estudante de programação! 👨🏻‍💻
-## Ao final do ano de 2024, me formo no Técnico em Informática para Internet integrado ao Ensino Médio do Senac. 💻
-## Atualmente estou trabalhando na Unimed Porto Alegre, como Jovem Aprendiz na área de Logística. 🚑🚘
+# Sou o Vinícius, um aspirante e estudante de programação! 👨🏻‍💻
+ Ao final do ano de 2024, me formo no Técnico em Informática para Internet integrado ao Ensino Médio do Senac. 💻
+ Atualmente estou trabalhando na Unimed Porto Alegre, como Jovem Aprendiz na área de Logística. 🚑🚘
 
-## Sou apaixonado por tecnologia e inovação! Sempre tento achar uma solução para algum problema e acho que tem algum jeito mais fácil dele ser resolvido.
+Sou apaixonado por tecnologia e inovação! Sempre tento achar uma solução para algum problema e acho que tem algum jeito mais fácil dele ser resolvido.
 
 
 
