@@ -21,6 +21,8 @@ Sou apaixonado por tecnologia e inovação! Sempre tento achar uma solução par
 <a href="https://www.linkedin.com/in/vinicius-ross" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 <!--
 **viniross/viniross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
