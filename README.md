@@ -1,5 +1,5 @@
-## Hi there 👋
-# Sou o Vinícius, um aspirante e estudante de programação! 👨🏻‍💻
+# Hi there 👋
+## Sou o Vinícius, um aspirante e estudante de programação! 👨🏻‍💻
  Ao final do ano de 2024, me formo no Técnico em Informática para Internet integrado ao Ensino Médio do Senac. 💻
 
 Atualmente estou trabalhando na Unimed Porto Alegre, como Jovem Aprendiz na área de Logística. 🚑🚘
@@ -12,12 +12,12 @@ Sou apaixonado por tecnologia e inovação! Sempre tento achar uma solução par
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=viniross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-# Skills:
+#### Skills:
 <div>
    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />        
 </div>
 
-## Contatos:
+### Contatos:
 
 <div>
 <a href="https://instagram.com/_viniross" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
