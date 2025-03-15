@@ -1,6 +1,7 @@
 # Hi there 👋
 ## Sou o Vinícius, um aspirante e estudante de programação! 👨🏻‍💻
 Formado em Técnico em Informática para Internet integrado ao Ensino Médio do Senac RS. 👨‍🎓
+
 Estudante de Ciência da Computação na PUCRS. 💻
 
 Atualmente estou trabalhando na Unimed Porto Alegre, como Jovem Aprendiz na área de Logística. 🚑🚘
