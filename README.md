@@ -1,39 +1,36 @@
-# Hi there 👋
-## Sou o Vinícius, um estudante de programação! 👨🏻‍💻
-Formado em Técnico em Informática para Internet integrado ao Ensino Médio do Senac RS. 👨‍🎓
+# Hello, I am Vinícius Ross, a third semester student at PUCRS!
 
-Estudante de Ciência da Computação na PUCRS. 💻
+- 🔍 I'm currently working at <a href = "https://pet-inf.github.io/pet-site/">PET Informática - PUCRS</a> as a Researcher & Developer
+- 👨🏻‍💻 I'm open to collaborating on innovative and web development projects
+- 💬 Ask me about my experiences as a Computer Science student at PUCRS and my previous experiences
 
+🚀 Passionate about building solutions that connect research, software, and real-world problems
 
-Atualmente estou trabalhando no PET Informática - PUCRS, como Desenvolvedor & Pesquisador. 💙
-
-
-Sou apaixonado por tecnologia e inovação! Sempre tento achar uma solução para algum problema e acho que tem algum jeito mais fácil dele ser resolvido.
-
+#### 🛠️ Languages and Tools
 <div>
-<a href="https://github.com/viniross">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniross&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=viniross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-#### Skills:
-<div>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
 </div>
 
-### Contatos:
-
+### 📫 Contacts
 <div>
 <a href = "mailto:viniciusrossw@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vinicius-ross" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+### 📊 My GitHub Stats
+<div>
+<a href="https://github.com/viniross">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniross&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=viniross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 
 <!--
