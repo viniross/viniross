@@ -1,4 +1,4 @@
-# Hello, I am Vinícius Ross, a third semester student at PUCRS!
+<h1> Hello, I am Vinícius Ross, a third semester student at PUCRS!</h1>
 
 - 🔍 I'm currently working at <a href = "https://pet-inf.github.io/pet-site/">PET Informática - PUCRS</a> as a Researcher & Developer
 - 👨🏻‍💻 I'm open to collaborating on innovative and web development projects
@@ -6,7 +6,7 @@
 
 🚀 Passionate about building solutions that connect research, software, and real-world problems
 
-#### 🛠️ Languages and Tools
+<h3> 🛠️ Languages and Tools </h3>
 <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -18,17 +18,17 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
 </div>
 
-### 📫 Contacts
+<h3> 📫 Contacts </h3>
 <div>
-<a href = "mailto:viniciusrossw@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vinicius-ross" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+            <a href = "mailto:viniciusrossw@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+            <a href="https://www.linkedin.com/in/vinicius-ross" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### 📊 My GitHub Stats
+<h3> 📊 My GitHub Stats </h3>
 <div>
-<a href="https://github.com/viniross">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniross&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=viniross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+            <a href="https://github.com/viniross">
+            <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniross&layout=compact&langs_count=7&theme=dracula"/>
+            <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=viniross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
