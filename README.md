@@ -61,7 +61,7 @@ As part of PET-Informática PUCRS, I participate in development and research act
 
 ### 📚 Background
 - 🎓 **Computer Science** — PUCRS
-- 💻 **Technical Degree in Internet Computing** — Senac Distrito Criativo
+- 💻 **Technical Degree in Internet Computing Integrated with High School** — Senac Distrito Criativo
 - 🌎 **English immersion program** — Vancouver, Canada
 - 🇺🇸 **English** — Advanced
 - 🇧🇷 **Portuguese** — Native
