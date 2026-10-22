@@ -61,7 +61,7 @@ Como parte do PET-Informática PUCRS, participo de atividades de desenvolvimento
 
 ### 📚 Formação
 - 🎓 **Ciência da Computação** — PUCRS
-- 💻 **Técnico em Informática para Internet** — Senac Distrito Criativo
+- 💻 **Técnico em Informática para Internet integrado ao Ensino Médio** — Senac Distrito Criativo
 - 🌎 **Curso intensivo de inglês** — Vancouver, Canadá
 - 🇺🇸 **Inglês** — Avançado
 - 🇧🇷 **Português** — Nativo
